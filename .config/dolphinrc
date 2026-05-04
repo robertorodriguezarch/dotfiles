@@ -1,0 +1,32 @@
+MenuBar=Disabled
+
+[CompactMode]
+PreviewSize=224
+
+[DetailsMode]
+PreviewSize=192
+
+[General]
+EditableUrl=true
+ShowFullPath=true
+ShowStatusBar=FullWidth
+ShowZoomSlider=true
+Version=202
+ViewPropsTimestamp=2024,12,18,7,2,50.4
+
+[IconsMode]
+PreviewSize=256
+TextWidthIndex=2
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[UiSettings]
+ColorScheme=BreezeLight

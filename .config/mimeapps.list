@@ -1,0 +1,10 @@
+[Added Associations]
+image/png=firefox-developer-edition-4.desktop;firefox-developer-edition-3.desktop;firefox-developer-edition-2.desktop;
+
+[Default Applications]
+image/png=firefox-developer-edition-4.desktop;
+text/html=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop

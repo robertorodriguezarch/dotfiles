@@ -1,0 +1,15 @@
+.cache/
+.local/
+.config/Code*
+.config/Code - OSS/
+.config/Code*/
+.ssh/
+.gnupg/
+*.log
+*.tmp
+.bash_history*
+.zsh_history*
+Downloads/
+Pictures/
+Videos/
+Music/
